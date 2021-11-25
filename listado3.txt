@@ -1,0 +1,6 @@
+Listado de compra
+Pan.......    4	
+Mayonesa..    1	
+Jamon.....    2	
+Queso.....    1	
+Refresco..    1	
