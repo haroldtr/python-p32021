@@ -1,3 +1,3 @@
-# python-p32021
+# Algoritmos en Python
 Ejercicios de clase de Algoritmos 
-Muestra ejercicios practcos tratados en la clase de algoritmos
+Muestra ejercicios practicos tratados en la clase de algoritmos
